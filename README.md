@@ -1,4 +1,26 @@
-## Hey 👋, I'm Oyebolade Oladokun!  
+<h2 align="center"> Oyebolade Oladokun</h2> 
+
+
+### I’m a  Frontend developer and a UI /UX Designer.
+
+
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on my portfolio.  
+  
+
+- 🌱 I’m currently learning JavaScript and Node.js  
+  
+
+- ❓ Ask me about anything related to user interface and related technologies  
+  
+
+- ⚡ Fun fact: I love reading 
+
+<br>
+
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Oyebolade&&style=flat-square) 
   
 
 <a href="https://github.com/Oyebolade" target="_blank">
@@ -19,32 +41,7 @@
   
 
 
-
-### Glad to see you here!  
-I’m a  Frontend developer and a UI /UX Designer.
-
-I specialize in  designing and building website interfaces.  I love making research and solving users problems.  
   
-
-  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on my portfolio.  
-  
-
-- 🌱 I’m currently learning JavaScript and Node.js  
-  
-
-- ❓ Ask me about anything related to user interface and related technologies  
-  
-
-- ⚡ Fun fact: I love reading  
   
 
 <br/>  
@@ -81,15 +78,7 @@ I specialize in  designing and building website interfaces.  I love making resea
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Oyebolade&&style=flat-square)  
-  
 
-<br/>  
-
-
-<br />
-
-----
 
 <!--
 **Oyebolade/Oyebolade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
