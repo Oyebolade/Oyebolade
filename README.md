@@ -45,16 +45,7 @@ I specialize in  designing and building website interfaces.  I love making resea
   
 
 - ⚡ Fun fact: I love reading  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://www.google.com/search?q=hello+gif&tbm=isch&bih=657&biw=1366&hl=en&sa=X&ved=2ahUKEwjG3PWJiu_5AhUCeBoKHcCqA1EQrNwCKAB6BQgBEMgC" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
